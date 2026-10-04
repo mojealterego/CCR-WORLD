@@ -8,6 +8,15 @@
 
 ---
 
+<!-- MOJEALTEREGO:PROJECT-STATUS:START -->
+> [!IMPORTANT]
+> **MojeAlterego project status:** `CONCEPT`  
+> **Domain:** Books / Android / Creative Technology  
+> **Verification:** Public repository currently establishes project identity only; implementation, engine and build state are not yet verified.  
+> **Status policy:** [MojeAlterego project status model](https://github.com/mojealterego/mojealterego/blob/main/docs/PROJECT-STATUS.md)
+<!-- MOJEALTEREGO:PROJECT-STATUS:END -->
+
+
 # CCR-WORLD
 
 **GAME AAA · ANDROID**
